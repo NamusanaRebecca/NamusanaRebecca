@@ -9,7 +9,7 @@ Skills: HTML, CSS, Javascript, PHP, MySQL, Python
 Current Learning:
   -Web application development
   -Database systems
-  Cybersecurity Fundamentals
+  -Cybersecurity Fundamentals
   
 Projects:
   -Hospital Appointment System
