@@ -14,7 +14,7 @@ Current Learning:
 Projects:
   -Hospital Appointment System
   -Student Management System
-  Personal Portifolio Website
+  -Personal Portifolio Website
 
 Connect with me:  LinkedIn: https://www.linkedin.com/in/rebecca-namusana-83a5a93b7/
   
